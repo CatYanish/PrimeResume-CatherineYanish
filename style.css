@@ -14,7 +14,10 @@ h1 {
 body div {
  border-radius: 5px;
  background-color: tan;
- position: absolute;
+ position: relative;
+ margin: auto;
  width: 1000px;
+ text-align:center;
+ 
 
 }
