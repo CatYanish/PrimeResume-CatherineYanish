@@ -1,3 +1,19 @@
+* {
+ font-family:Verdana;
+}
+
 p {
- color: red
+ color: black;
+}
+
+h1 {
+ text-align: center;
+}
+
+
+div {
+ border-radius: 5px;
+ background-color: tan;
+ position: absolute;
+
 }
