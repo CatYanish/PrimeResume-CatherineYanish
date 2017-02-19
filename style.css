@@ -11,9 +11,10 @@ h1 {
 }
 
 
-div {
+body div {
  border-radius: 5px;
  background-color: tan;
  position: absolute;
+ width: 1000px;
 
 }
