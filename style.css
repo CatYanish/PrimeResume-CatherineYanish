@@ -3,6 +3,13 @@
  color: black;
 }
 
+#pic {
+	float: right;
+	border: white 15px solid;
+}
+
+
+
 #container {
 	margin-top: 20px;
 	margin-left: 200px;
@@ -14,8 +21,21 @@
 }
 
 
+#contact-info {
+	margin: 0 0 16px 0;
+	padding: 0 0 16px 0;
+	font-size: 42px;
+	font-weight: bold;
+	letter-spacing: -2px;
+	border-bottom: 1px solid #999;
+}
+
+
+
+
 h1 {
  text-align: center;
 }
 
 
+#
