@@ -1,25 +1,21 @@
 * {
  font-family:Verdana;
-}
-
-p {
  color: black;
 }
+
+#container {
+	margin-top: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding: 10px 150px 10px 150px;
+	border-radius: 15px;
+	background-color: #C4CECD;
+	text-align: left;
+}
+
 
 h1 {
  text-align: center;
 }
 
 
-body div {
- border-radius: 15px;
- background-color: gray;
- position: relative;
- margin: auto;
- width: 1000px;
-}
-
-
-div {
- width: 750px;
-}
