@@ -33,14 +33,14 @@ body {
 
 
 .header {
-	margin: 0 0 16px 0;
-	padding: 0 0 16px 0;
+	margin: 0;
+	padding: 0;
 	letter-spacing: -2px;
 	border-bottom: 1px solid #999;
 }
 
 .header p {
-	display: inline;
+	display: block;
 	padding:10px 10px 10px 10px;
 }
 
