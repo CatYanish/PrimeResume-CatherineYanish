@@ -4,7 +4,7 @@
 }
 
 body {
-	background-color: #545E6C;
+	background-color: rgba(0, 0, 0, 0.2);
 }
 
 #pic {
@@ -32,17 +32,14 @@ body {
 }
 
 
-.header {
+header {
 	margin: 0;
 	padding: 0;
 	letter-spacing: -2px;
 	border-bottom: 1px solid #999;
 }
 
-.header p {
-	display: block;
-	padding:10px 10px 10px 10px;
-}
+
 
 #education {
 	border-bottom: 1px solid #999;
