@@ -4,7 +4,11 @@
 }
 
 body {
-	color: rgba(0, 0, 0, 0.2);
+	background-color: rgba(0, 0, 0, 0.2);
+}
+
+p {
+	font-size: 15px;
 }
 
 #pic {
@@ -19,8 +23,8 @@ body {
 
 
 .container {
-	width:800px;
-	margin-top: 0px;
+	width:750px;
+	margin-top: 50px;
 	margin-left: 200px;
 	margin-right: 200px;
 	margin-bottom: 0px;
