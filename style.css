@@ -24,11 +24,10 @@ p {
 
 .container {
 	width:750px;
-	margin-top: 50px;
+	margin-top: 25px;
 	margin-left: 200px;
 	margin-right: 200px;
-	margin-bottom: 0px;
-	padding: 10px 150px 100px 150px;
+	margin-bottom: 0px;	
 	border-radius: 0px;
 	background-color: #E1EEF3;
 	text-align: left;
