@@ -10,7 +10,10 @@ body {
 #pic {
 	float: right;
 	border: #42A8C0 15px solid;
-	border-radius: 15px;
+	border-radius: 0px;
+	height: 200px;
+	width:200px;
+	padding: 0px;
 }
 
 
@@ -21,8 +24,8 @@ body {
 	margin-left: 200px;
 	margin-right: 200px;
 	margin-bottom: 100px;
-	padding: 10px 150px 10px 150px;
-	border-radius: 15px;
+	padding: 100px 150px 100px 150px;
+	border-radius: 0px;
 	background-color: #fff;
 	text-align: left;
 }
