@@ -3,7 +3,7 @@
  color: black;
 }
 
-html {
+body {
 	background-color: rgba(0, 0, 0, 0.2);
 }
 
@@ -20,17 +20,6 @@ p {
 	padding: 0px;
 }
 
-.nav {
-	 background-image:url(https://s-media-cache-ak0.pinimg.com/564x/59/d6/ff/59d6ff9f185ac221c58fe22db45731e8.jpg);
-	  background-size:cover;
-	 background: #4CAC9D;
- 	 position: absolute;
-	  right: 0;
-  	 width: 240px;
-  	 height: 100%;
-  	 min-height: 800px;
- 	
-}
 
 
 .container {
@@ -65,4 +54,3 @@ header {
 
 
 
-#
