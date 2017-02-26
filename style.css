@@ -7,7 +7,12 @@ body {
 	background-color: rgba(0, 0, 0, 0.2); !important
 }
 
-p, li {
+p {
+	padding: 0;
+}
+
+
+li {
 	font-size: 18px;
 }
 
