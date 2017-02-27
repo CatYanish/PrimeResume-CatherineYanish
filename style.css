@@ -19,7 +19,7 @@ p {
 	font-size: 18px
 }
 
-h1, h2, h3 hover {
+h1, h2, h3 :hover {
 	color: #FF2A4C;
 }
 
