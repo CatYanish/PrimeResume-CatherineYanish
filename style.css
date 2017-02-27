@@ -19,6 +19,10 @@ p {
 	font-size: 18px
 }
 
+h1, h2, h3 hover {
+	color: #FF2A4C;
+}
+
 
 li {
 	font-size: 18px;
@@ -27,7 +31,7 @@ li {
 
 #pic {
 	float: right;
-	border: #42A8C0 5px solid;
+	border: #FF6200 5px solid;
 	border-radius: 0px;
 	height: 200px;
 	width:200px;
@@ -41,9 +45,11 @@ li {
 	margin : auto;
 	padding: 50px;
 	border-radius: 0px;
-	background-color: #E1EEF3;
+	background-color: #FF7A8F;
 	border: 2px solid rgba(0, 0, 0, 0.2); 
 }
+
+
 
 
 header {
