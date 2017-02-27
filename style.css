@@ -19,14 +19,21 @@ p {
 	font-size: 18px
 }
 
+p, li {
+	color: #262626
+}
 
-h1:hover, h2:hover, h3:hover {
+h1:hover {
+	color: #FF2A4C;
+}
+
+h2:hover, h3:hover {
 	color: #FF2A4C;
 }
 
 
 ul {
-	padding-left: 100px		
+	padding-left: 95px		
 }
 
 
