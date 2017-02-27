@@ -25,6 +25,11 @@ h1:hover, h2:hover, h3:hover {
 }
 
 
+ul {
+	padding-left: 100px		
+}
+
+
 li {
 	font-size: 18px;
 	padding-left: 0px;
